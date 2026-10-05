@@ -1,0 +1,25 @@
+"VertexlitGeneric"
+{
+	$detail			"models/weapons/tfa_codww2/pap_camo/camo_pap_01_ems"
+	$detailblendmode "5"
+	$detailscale "4"
+	$detailblendfactor "1"
+	
+	$emissiveblendenabled		"1"
+	$emissiveblendstrength		"1"
+	$emissiveblendtexture		"models/weapons/tfa_codww2/pap_camo/camo_pap_01_ems"
+	$emissiveblendbasetexture	"models/weapons/tfa_codww2/as44/base_camo_m"
+	$emissiveblendflowtexture	"models/weapons/tfa_codww2/pap_camo/camo_pap_01_flow"
+	$emissiveblendtint			"[5 5 5]"
+	$emissiveblendscrollvector	"[0.1 -0.15]"
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"textureScrollVar" "$detailtexturetransform"
+			"textureScrollRate" "0.05"
+			"textureScrollAngle" "-45"
+		}
+	}
+}

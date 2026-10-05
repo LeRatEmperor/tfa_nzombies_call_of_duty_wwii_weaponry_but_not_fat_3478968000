@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	$basetexture			"models/weapons/tfa_codww2/mosin/s2_ret_pol_kbsp1938_col"
+	$translucent "1"
+}

@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	$basetexture			"models/weapons/tfa_codww2/zk383/base_d"
+	$bumpmap				"models/weapons/tfa_codww2/zk383/base_n"
+	$phongexponenttexture	"models/weapons/tfa_codww2/zk383/base_s"
+
+	$phong	"1"
+	$phongboost	"5"
+	$phongfresnelranges	"[.01 .2 .05]"
+
+	$envmap	"env_cubemap"
+	$envmaptint	"[.25 .25 .25]"
+	$normalmapalphaenvmapmask	"1"
+	$envmapfresnel	"1"
+
+	$rimlight	"1"
+	$rimmask	"1"
+	$rimlightboost	"1"
+	$rimlightexponent	"2"
+}

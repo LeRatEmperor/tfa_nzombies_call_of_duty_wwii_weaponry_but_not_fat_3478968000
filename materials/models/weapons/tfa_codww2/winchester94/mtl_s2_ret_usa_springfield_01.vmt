@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	$basetexture			"models/weapons/tfa_codww2/winchester94/s2_ret_usa_springfield_col"
+	$translucent "1"
+}
