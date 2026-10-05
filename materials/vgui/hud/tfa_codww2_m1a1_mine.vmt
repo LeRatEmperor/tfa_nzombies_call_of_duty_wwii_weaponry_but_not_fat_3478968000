@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/hud/tfa_codww2_m1a1_mine"
+	"$vertexcolor" 		1
+	"$vertexalpha" 		1
+	"$nolod" 			1
+}
